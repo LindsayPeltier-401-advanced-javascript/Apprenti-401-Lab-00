@@ -13,8 +13,8 @@
   "author": "John Cokos",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^5.6.1",
+    "eslint": "^5.16.0",
     "express": "^4.17.1",
-    "jest": "^23.6.0"
+    "jest": "^25.0.0"
   }
 }
