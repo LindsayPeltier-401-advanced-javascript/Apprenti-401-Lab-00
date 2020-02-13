@@ -4,10 +4,10 @@
   "description": "Proof of Life",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "lint": "eslint **/*.js",
     "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'",
     "test-watch": "jest --watchAll --verbose --coverage",
+    "start": "node index.js",
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
   "author": "John Cokos",
@@ -15,6 +15,7 @@
   "dependencies": {
     "eslint": "^5.16.0",
     "express": "^4.17.1",
-    "jest": "^25.0.0"
+    "jest": "^25.1.0",
+    "jsdoc": "^3.6.3"
   }
 }

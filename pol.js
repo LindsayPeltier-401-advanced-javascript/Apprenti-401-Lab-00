@@ -13,6 +13,6 @@ let proofoflife = module.exports = {};
  * @returns {boolean}
  * @function isAlive
  */
-proofoflife.isAlive = function(dead) {
-  return !(!!dead);
+proofoflife.isAlive = function (dead) {
+  return !(!dead);
 };
