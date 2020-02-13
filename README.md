@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-* [submission PR](https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-00/pull)
-* [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-00)
-* [heroku]()
+* [submission PR](https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-00/pull/1)
+* [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-00/builds/148716954)
+* [heroku](https://apprenti-401-lab-00.herokuapp.com/)
 
 #### Documentation
 
