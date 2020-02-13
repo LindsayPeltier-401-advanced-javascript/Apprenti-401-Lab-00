@@ -1,23 +1,22 @@
-# LAB: Deployment
+# Apprenti-401-Lab-15
+# LAB - 00
+## Deployment Lab
 
-### Get this code up and running Travis and Heroku!
+### Author: Lindsay Peltier
 
-#### Getting Started
-Refer to *Getting Started* in the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for complete setup instructions
+### Links and Resources
 
-## Requirements
+* [submission PR](https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-00/pull/1)
+* [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-00/builds/148716954)
+* [heroku](https://apprenti-401-lab-00.herokuapp.com/)
 
-- Create a branch rule disallowing merges to master unless Travis builds are green
+#### Documentation
 
-- Connect Travis to your git account
-  - Check that travis finds this newly created repo
+[Docs Index](./docs/index.html)
 
-- Connect your Heroku to your git repo
-  - Set heroku to auto deploy from master (or any named branch)
-  - Optional: set heroku to require CI (this will cause Heroku to deploy with and only with passing travis build)
-
-## Testing
-* tests in starter code pass in travis
-
-### Assignment Submission Instructions
-Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
+### Setup
+* npm install
+  
+#### Tests
+* npm run lint
+* npm test
